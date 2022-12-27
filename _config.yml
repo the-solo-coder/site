@@ -4,3 +4,4 @@ plugins:
 title: "The SoloCoder"
 author: "Aderson Oliveira"
 description: "About coding and career"
+layout: default
