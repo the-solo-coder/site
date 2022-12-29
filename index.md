@@ -1,8 +1,5 @@
 ---
-title: Welcome to my blog
+title: Journais de quando cheguei no Canadá
 ---
 
-# The SoloCoder Blog
-## Coding and Career
-
-This is the blog of Aderson Oliveira
+Por Aderson Chaves de Oliveira
